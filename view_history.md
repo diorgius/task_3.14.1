@@ -124,6 +124,7 @@ ca82a6d - Scott Chacon, 6 years ago : Change version number
 085bb3b - Scott Chacon, 6 years ago : Remove unnecessary test
 a11bef0 - Scott Chacon, 6 years ago : Initial commit
 ```
+
 *Полезные опции для git log --pretty=format:*![](/pict/gitlogformat.png "Полезные опции для git log --pretty=format")
 
 >#### <span style="color:red">Примечание:</span>
@@ -189,3 +190,5 @@ b0ad11e - pull: allow "git pull origin $something:$current_branch" into an unbor
 >#### <span style="color:red">Примечание:</span>
 >Предотвращение отображения коммитов слияния
 В зависимости от используемого порядка работы, история коммитов в вашем репозитории может содержать большое количество коммитов слияния, которые сами по себе не очень информативны. Чтобы исключить их из вывода команды git log используйте опцию --no-merges.
+
+[< к содержанию](readme.md)
