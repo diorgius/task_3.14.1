@@ -18,3 +18,5 @@ license: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses
 5. [Просмотр истории изменений](view_history.md)
 6. [Отмена изменений](cancel_operation.md)
 7. [Удаленные репозитории](remote_repositiry.md)
+8. [Работа с тегами](tags.md)
+9. [Псевдонимы](aliases.md)
