@@ -20,3 +20,5 @@ license: [Creative Commons Attribution 3.0](https://creativecommons.org/licenses
 7. [Удаленные репозитории](remote_repositiry.md)
 8. [Работа с тегами](tags.md)
 9. [Псевдонимы](aliases.md)
+10. [Ветвление](branching.md)
+11. [Управление ветками](branch_management.md)
